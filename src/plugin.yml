@@ -1,0 +1,8 @@
+name: WhoWas
+main: de.sephger.whowas.WhoWas
+author: DevCat
+version: 1.0.42
+commands:
+ who:
+  description: Returns the UUID or History of the Player
+  usage: who <is/was> [Player]
